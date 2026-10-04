@@ -1,6 +1,5 @@
 package src;
 import javax.swing.*;
-import java.math.*;
 import java.util.ArrayList;
 public class Buttons{
     public JButton[] b;
