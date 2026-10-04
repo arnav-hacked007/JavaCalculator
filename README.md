@@ -1,7 +1,4 @@
 <div align="center">
-
-<img src="assets/banner.svg" alt="Animated Calculator banner" width="100%"/>
-
 <br/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=22D3EE&center=true&vCenter=true&width=600&lines=Built+with+Java+Swing;Evaluates+expressions+with+correct+precedence;Keeps+a+history+of+every+calculation;Simple.+Fast.+Dependency-free.)](https://git.io/typing-svg)
